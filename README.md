@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Translation Commons creates keyboards in collaboration with language communities from around the world, at their request. They are free, Open Source, and available for anyone to download and use. The published keyboards are listed below. Check back periodically to see our latest additions. To request the creation of a keyboard for your language community, visit Keyboard Creation Service
 
@@ -12,7 +12,7 @@ These keyboards are OpenSource and available under the MIT License.
 
 We would appreciate your feedback on the keyboards. This helps us improve them and also lets us know how our work benefits your language community. Use this feedback form to ask questions or send comments to us.
 
-#Keyboard Descriptions
+# Keyboard Descriptions
 
 Each keyboard description below includes the language name, ISO code, and the script it supports. The description also identifies the platforms that the keyboard can be used with and whether the keyboard is the final version or an early-release version.
 
@@ -20,6 +20,6 @@ In some cases, a script is not yet encoded in the Unicode standard. In that inst
 
 The description may also provide supplemental information such as keyboard support for predictive text, links to fonts that support the language, etc.
 
-#Final Keyboards
+# Final Keyboards
 Find a list of final and preview keyboards at:
 https://translationcommons.org/keyboard-creation-project/published-keyboards/
